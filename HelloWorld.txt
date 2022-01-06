@@ -1,2 +1,2 @@
-print("Hello World!");
-print("Update Hello");
+println("Hello World!");
+println("Update Hello");
