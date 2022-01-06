@@ -1,4 +1,6 @@
-print("Hello World!");
-print("Update Hello");
-print("Hello my diar rfiend");
-print("Hello my bad friend");
+
+println("Hello World!");
+println("Update Hello");
+println("Hello my diar rfiend");
+println("Hello my bad friend");
+
